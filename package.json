@@ -1,0 +1,14 @@
+{
+  "name": "deutschweg-b1-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Offline vocabulary learning portfolio demo with Turkish guidance",
+  "scripts": {
+    "build": "node scripts/build.cjs",
+    "test": "node --test test/*.test.cjs",
+    "check": "node scripts/check.cjs"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

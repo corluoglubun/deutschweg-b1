@@ -1,0 +1,237 @@
+{
+  "id": "portfolio-original-30-v1",
+  "words": [
+    {
+      "de": "der Notizblock",
+      "tr": "not defteri",
+      "example": "Mein neuer Notizblock passt in die Jackentasche.",
+      "aliases": [
+        "Notizbuch"
+      ]
+    },
+    {
+      "de": "die Schreibtischlampe",
+      "tr": "masa lambası",
+      "example": "Am Abend schalte ich meine Schreibtischlampe ein.",
+      "aliases": []
+    },
+    {
+      "de": "der Wochenplan",
+      "tr": "haftalık plan",
+      "example": "Im Wochenplan bleibt der Sonntag frei.",
+      "aliases": []
+    },
+    {
+      "de": "die Lernpause",
+      "tr": "öğrenme molası",
+      "example": "Nach den ersten Karten mache ich eine Lernpause.",
+      "aliases": []
+    },
+    {
+      "de": "nachschlagen",
+      "tr": "sözlükten bakmak",
+      "example": "Ich möchte dieses neue Wort im Wörterbuch nachschlagen.",
+      "aliases": []
+    },
+    {
+      "de": "wiederholen",
+      "tr": "tekrar etmek",
+      "example": "Wir wiederholen heute fünf schwierige Ausdrücke.",
+      "aliases": []
+    },
+    {
+      "de": "die Rückfrage",
+      "tr": "ek soru",
+      "example": "Zu deiner Nachricht habe ich noch eine Rückfrage.",
+      "aliases": []
+    },
+    {
+      "de": "die Lerngruppe",
+      "tr": "çalışma grubu",
+      "example": "Unsere Lerngruppe trifft sich am Küchentisch.",
+      "aliases": []
+    },
+    {
+      "de": "aufmerksam",
+      "tr": "dikkatli",
+      "example": "Beim Vorlesen hören beide aufmerksam zu.",
+      "aliases": []
+    },
+    {
+      "de": "die Reihenfolge",
+      "tr": "sıra",
+      "example": "Die Reihenfolge der Karten ist heute anders.",
+      "aliases": []
+    },
+    {
+      "de": "die Verbesserung",
+      "tr": "iyileştirme",
+      "example": "Eine kleine Verbesserung macht den Text verständlicher.",
+      "aliases": []
+    },
+    {
+      "de": "verständlich",
+      "tr": "anlaşılır",
+      "example": "Deine Erklärung ist kurz und verständlich.",
+      "aliases": []
+    },
+    {
+      "de": "der Entwurf",
+      "tr": "taslak",
+      "example": "Meinen ersten Entwurf lese ich morgen noch einmal.",
+      "aliases": []
+    },
+    {
+      "de": "die Ausdauer",
+      "tr": "azim",
+      "example": "Beim Lernen hilft mir mehr Ausdauer als Eile.",
+      "aliases": []
+    },
+    {
+      "de": "zuversichtlich",
+      "tr": "umutlu",
+      "example": "Nach der Übung bin ich wieder zuversichtlich.",
+      "aliases": []
+    },
+    {
+      "de": "die Einkaufstasche",
+      "tr": "alışveriş çantası",
+      "example": "Die leere Einkaufstasche hängt neben der Tür.",
+      "aliases": []
+    },
+    {
+      "de": "der Abholtermin",
+      "tr": "teslim alma randevusu",
+      "example": "Den Abholtermin trage ich sofort in meinen Kalender ein.",
+      "aliases": []
+    },
+    {
+      "de": "der Türschlüssel",
+      "tr": "kapı anahtarı",
+      "example": "Der Türschlüssel liegt in der kleinen blauen Schale.",
+      "aliases": []
+    },
+    {
+      "de": "die Bushaltestelle",
+      "tr": "otobüs durağı",
+      "example": "Von unserer Haustür sehen wir die Bushaltestelle.",
+      "aliases": []
+    },
+    {
+      "de": "die Wegbeschreibung",
+      "tr": "yol tarifi",
+      "example": "Deine Wegbeschreibung führt mich direkt zum Hintereingang.",
+      "aliases": []
+    },
+    {
+      "de": "rechtzeitig",
+      "tr": "zamanında",
+      "example": "Mit dem früheren Bus komme ich rechtzeitig an.",
+      "aliases": []
+    },
+    {
+      "de": "die Terminbestätigung",
+      "tr": "randevu onayı",
+      "example": "Die Terminbestätigung liegt schon in meiner Mappe.",
+      "aliases": []
+    },
+    {
+      "de": "umplanen",
+      "tr": "yeniden planlamak",
+      "example": "Bei starkem Regen müssen wir unseren Nachmittag umplanen.",
+      "aliases": []
+    },
+    {
+      "de": "der Spazierweg",
+      "tr": "yürüyüş yolu",
+      "example": "Dieser Spazierweg endet an einer kleinen Holzbrücke.",
+      "aliases": []
+    },
+    {
+      "de": "die Regenjacke",
+      "tr": "yağmurluk",
+      "example": "Für den Heimweg leihe ich dir meine Regenjacke.",
+      "aliases": []
+    },
+    {
+      "de": "die Sitzbank",
+      "tr": "bank",
+      "example": "Auf der Sitzbank vor dem Haus liegt ein rotes Heft.",
+      "aliases": []
+    },
+    {
+      "de": "die Nachbarschaft",
+      "tr": "komşuluk çevresi",
+      "example": "In unserer Nachbarschaft tauschen wir gern Bücher aus.",
+      "aliases": []
+    },
+    {
+      "de": "hilfsbereit",
+      "tr": "yardımsever",
+      "example": "Die neue Nachbarin ist freundlich und hilfsbereit.",
+      "aliases": []
+    },
+    {
+      "de": "die Verabredung",
+      "tr": "buluşma",
+      "example": "Für unsere Verabredung bringe ich einen kleinen Kuchen mit.",
+      "aliases": []
+    },
+    {
+      "de": "gemeinsam",
+      "tr": "birlikte",
+      "example": "Gemeinsam finden wir eine ruhigere Ecke zum Lesen.",
+      "aliases": [
+        "zusammen"
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "title": "Birlikte öğrenmek",
+      "prompt": "Wir lernen gemeinsam, … wir uns gegenseitig helfen können.",
+      "options": [
+        "damit",
+        "obwohl",
+        "trotzdem"
+      ],
+      "answer": 0,
+      "why": "Amaç bildirirken 'damit' kullanılır; çekimli fiil sonda yer alır."
+    },
+    {
+      "title": "Bir mesajı anlamak",
+      "text": "Unsere Lerngruppe beginnt heute erst um 18:30 Uhr. Bring bitte dein Heft mit. Den Raum haben wir nicht gewechselt.",
+      "prompt": "Welcher Hinweis betrifft den Beginn der Lerngruppe?",
+      "options": [
+        "Der Raum",
+        "Die Anfangszeit",
+        "Das benötigte Heft"
+      ],
+      "answer": 1,
+      "why": "Mesajda başlangıç saatinin değiştiği söyleniyor."
+    },
+    {
+      "title": "Nazikçe sormak",
+      "prompt": "Welche Frage passt zu einer höflichen Rückfrage?",
+      "options": [
+        "Erklären sofort!",
+        "Du müssen erklären?",
+        "Würden Sie mir den letzten Punkt bitte genauer erklären?"
+      ],
+      "answer": 2,
+      "why": "'Würden Sie … bitte' ile kibarca açıklama istenir."
+    }
+  ],
+  "stories": [
+    {
+      "title": "Defterdeki yaprak",
+      "de": "Zwischen zwei Seiten liegt ein kleines Blatt. Es erinnert Mira an einen ruhigen Nachmittag. Sie schreibt drei neue Wörter daneben. Am nächsten Morgen erzählt sie mit diesen Wörtern eine neue Geschichte.",
+      "tr": "Bir anıyı üç yeni kelimeyle anlatmayı dene."
+    },
+    {
+      "title": "Küçük köprü",
+      "de": "Am Ende des Weges wartet eine schmale Brücke. Sami bleibt kurz stehen und schaut auf das Wasser. Dann geht er weiter. Nicht jeder Schritt muss groß sein, damit man auf die andere Seite kommt.",
+      "tr": "Bugün attığın küçük bir öğrenme adımını Almanca anlat."
+    }
+  ]
+}
